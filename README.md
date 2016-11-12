@@ -4,13 +4,9 @@
 
 ![](./screenshot.png)
 
-## Installation
+## Demo
 
-```
-$ yarn
-```
-
-and open `index.html` file in browser.
+Try https://piecioshka.github.io//test-phaser-collision/
 
 ## Controls 
 
