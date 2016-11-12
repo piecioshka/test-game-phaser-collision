@@ -1,8 +1,5 @@
 {
     "private": true,
     "name": "test-phaser-collision",
-    "version": "1.0.0",
-    "devDependencies": {
-        "phaser": "^2.6.2"
-    }
+    "version": "1.0.0"
 }
