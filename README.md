@@ -1,6 +1,6 @@
 # test-phaser-collision
 
-> :ledger: Proper way to support collision in [Phaser.js](http://phaser.io/) 
+:ledger: Proper way to support collision in [Phaser.js](http://phaser.io/) 
 
 ![](./screenshot.png)
 
