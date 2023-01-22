@@ -4,9 +4,9 @@
 
 ![](./screenshot.png)
 
-## Demo
+## Preview 🎉
 
-Try https://piecioshka.github.io//test-phaser-collision/
+https://piecioshka.github.io//test-phaser-collision/
 
 ## Controls 
 
