@@ -1,4 +1,4 @@
-# test-phaser-collision
+# test-game-phaser-collision
 
 :ledger: Proper way to support collision in [Phaser.js](http://phaser.io/) 
 
@@ -6,7 +6,7 @@
 
 ## Preview 🎉
 
-https://piecioshka.github.io//test-phaser-collision/
+https://piecioshka.github.io//test-game-phaser-collision/
 
 ## Controls 
 

@@ -23,8 +23,8 @@ class Player extends Phaser.Sprite {
     }
 
     updateVelocity() {
-        let { up, down, left, right } = this.cursors;
-        let velocity = this.body.velocity;
+        const { up, down, left, right } = this.cursors;
+        const velocity = this.body.velocity;
 
         if (up.isDown) {
             velocity.y = -1 * SPEED;

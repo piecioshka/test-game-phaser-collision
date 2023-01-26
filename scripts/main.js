@@ -1,6 +1,6 @@
 'use strict';
 
-let game = new Game(320, 320, Phaser.CANVAS, 'game');
+const game = new Game(320, 320, Phaser.CANVAS, 'game');
 
 game.state.add('CityState', CityState);
 game.state.start('CityState');
